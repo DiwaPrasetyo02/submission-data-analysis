@@ -1,3 +1,5 @@
 # submission-data-analysis
 Running Streamlit
-streamlit run streamlit.py
+```
+streamlit run dashboard_bike_sharing_analysis.py
+```
